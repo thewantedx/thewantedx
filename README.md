@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thewantedx
-- 👀 I’m interested in LEAGUE
-- 🌱 I’m currently learning Something you dont wanna know >.<
+- 👋 Hi, I’m @thewantedx aka HuyNQ
+- 👀 I’m interested in Soccer & Games
+- 🌱 I’m currently learning Cyber Security.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me idk :))
+- 📫 How to reach me nguyenquanghuy280103@gmail.com
 
 <!---
 thewantedx/thewantedx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
