@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @thewantedx aka HuyNQ
-- 👀 I’m interested in Soccer & Games
-- 🌱 I’m currently learning Cyber Security.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nguyenquanghuy280103@gmail.com
+👋 Hey, I’m Huy Nguyen (@thewantedx)
 
-<!---
-thewantedx/thewantedx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛡️ Cyber Security Enthusiast | Malware Analysis | Threat Intelligence
+
+I’m passionate about reverse engineering, malware analysis, and tracking real-world cyber threats targeting organizations and users across the globe.
+
+Currently focusing on:
+
+Malware Analysis & Reverse Engineering
+Threat Intelligence Research
+Windows & Linux Internals
+Network Threat Hunting
+Detection Engineering
+
+Outside of cybersecurity, I also enjoy soccer, gaming, and exploring new technologies.
+
+📫 Contact: nguyenquanghuy280103@gmail.com
