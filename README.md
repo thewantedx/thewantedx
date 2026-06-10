@@ -1,6 +1,6 @@
 👋 Hey, I’m Huy Nguyen (@thewantedx)
 
-👨‍💼 NCS Group (VIETNAM NATIONAL CYBER SECURITY TECHNOLOGY CORPORATION)
+💼 NCS Group (VIETNAM NATIONAL CYBER SECURITY TECHNOLOGY CORPORATION)
 
 🛡️ Cyber Security Enthusiast | Malware Analysis | Threat Intelligence
 
