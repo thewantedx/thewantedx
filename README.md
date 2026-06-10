@@ -8,11 +8,11 @@ I’m passionate about reverse engineering, malware analysis, and tracking real-
 
 Currently focusing on:
 
-Malware Analysis & Reverse Engineering
-Threat Intelligence Research
-Windows & Linux Internals
-Network Threat Hunting
-Detection Engineering
+Malware Analysis & Reverse Engineering || 
+Threat Intelligence Research ||
+Windows & Linux Internals ||
+Network Threat Hunting || 
+Detection Engineering ||
 
 Outside of cybersecurity, I also enjoy soccer, gaming, and exploring new technologies.
 
