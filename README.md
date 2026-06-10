@@ -1,5 +1,7 @@
 👋 Hey, I’m Huy Nguyen (@thewantedx)
 
+👨‍💼 NCS Group (National Cyber Security Group)
+
 🛡️ Cyber Security Enthusiast | Malware Analysis | Threat Intelligence
 
 I’m passionate about reverse engineering, malware analysis, and tracking real-world cyber threats targeting organizations and users across the globe.
