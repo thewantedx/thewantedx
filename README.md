@@ -12,7 +12,7 @@ Malware Analysis & Reverse Engineering ||
 Threat Intelligence Research ||
 Windows & Linux Internals ||
 Network Threat Hunting || 
-Detection Engineering ||
+Detection Engineering 
 
 Outside of cybersecurity, I also enjoy soccer, gaming, and exploring new technologies.
 
