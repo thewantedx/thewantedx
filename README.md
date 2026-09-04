@@ -2,7 +2,7 @@
 
 💼 NCS Group (VIETNAM NATIONAL CYBER SECURITY TECHNOLOGY CORPORATION)
 
-🛡️ Cyber Security Enthusiast | Malware Analysis | Threat Intelligence
+🛡️ Cyber Security Enthusiast | Malware Analysis | Threat Intelligence | Threat Hunting
 
 I’m passionate about reverse engineering, malware analysis, and tracking real-world cyber threats targeting organizations and users across the globe.
 
